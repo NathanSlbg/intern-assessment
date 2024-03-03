@@ -1,1 +1,1 @@
-# intern-assessment-thales
+# intern-assessment
